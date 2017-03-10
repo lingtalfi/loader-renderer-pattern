@@ -6,6 +6,9 @@ Loader Renderer pattern
 
 Here is a cool pattern that I like, just wanted to put it here for my personal convenience.
 
+[![loader-renderer-pattern.jpg](https://s19.postimg.org/ukreijjoj/loader_renderer_pattern.jpg)](https://postimg.org/image/jl676xt9b/)
+
+
 
 It's about rendering a template.
 
